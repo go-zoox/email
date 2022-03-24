@@ -1,0 +1,6 @@
+github.com/go-zoox/dotenv v0.0.2 h1:2PRTULpnBxM+QX9et6qKMv1H+YwyG/gKy8MTjbvnDfM=
+github.com/go-zoox/dotenv v0.0.2/go.mod h1:N2bXxghq3Zk+lpiOxv+m+0yjnGubVqJGJDR/9jWm3N0=
+github.com/joho/godotenv v1.4.0 h1:3l4+N6zfMWnkbPEXKng2o2/MR5mSwTrBih4ZEkkz1lg=
+github.com/joho/godotenv v1.4.0/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+github.com/jordan-wright/email v4.0.1-0.20210109023952-943e75fe5223+incompatible h1:jdpOPRN1zP63Td1hDQbZW73xKmzDvZHzVdNYxhnTMDA=
+github.com/jordan-wright/email v4.0.1-0.20210109023952-943e75fe5223+incompatible/go.mod h1:1c7szIrayyPPB/987hsnvNzLushdWf4o/79s3P08L8A=
